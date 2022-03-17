@@ -1,0 +1,22 @@
+{
+  "name": "fir-tree",
+  "version": "1.0.0",
+  "description": "Fir tree - новогодняя елка",
+  "main": "fir_tree.exe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baklai/fir-tree.git"
+  },
+  "keywords": [
+    "Delphi"
+  ],
+  "author": "Dmitrii Baklai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baklai/fir-tree/issues"
+  },
+  "homepage": "https://github.com/baklai/fir-tree#readme"
+}
